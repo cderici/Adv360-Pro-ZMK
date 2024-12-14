@@ -88,11 +88,11 @@
 
         symbols {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &kp AT_SIGN   &kp AMPERSAND  &trans      &kp RIGHT_PARENTHESIS  &trans               &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &kp RA(RBKT)  &kp STAR       &kp LPAR    &kp RA(TILDE2)         &kp RA(EXCLAMATION)  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &kp PERCENT   &kp RA(N8)     &kp RA(N9)  &trans                 &trans               &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                        &kp RA(N7)     &kp RA(N0)  &trans                 &trans               &trans  &kp RS(QUESTION)
-&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans                       &trans      &trans                 &trans               &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &kp AT_SIGN   &kp AMPERSAND  &trans      &kp RPAR        &trans               &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &kp RA(RBKT)  &kp STAR       &kp LPAR    &kp RA(TILDE2)  &kp RA(EXCLAMATION)  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &kp PERCENT   &kp RA(N8)     &kp RA(N9)  &trans          &trans               &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                        &kp RA(N7)     &kp RA(N0)  &trans          &trans               &trans  &kp RS(QUESTION)
+&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans                       &trans      &trans          &trans               &trans  &trans
             >;
         };
     };
