@@ -89,8 +89,8 @@
         symbols {
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &kp AT_SIGN   &kp AMPERSAND  &kp CARET   &kp RPAR       &trans      &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &kp RA(RBKT)  &kp STAR       &kp LPAR    &kp RA(GRAVE)  &kp RA(N1)  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &kp PERCENT   &kp RA(N8)     &kp RA(N9)  &trans         &trans      &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &kp RA(RBKT)  &kp RA(N8)     &kp RA(N9)  &kp RA(GRAVE)  &kp RA(N1)  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &kp PERCENT   &kp STAR       &kp LPAR    &kp STAR       &kp LPAR    &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                        &kp RA(N7)     &kp RA(N0)  &trans         &trans      &trans  &kp RS(QUESTION)
 &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans                       &trans      &trans         &trans      &trans  &trans
             >;
