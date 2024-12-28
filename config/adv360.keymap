@@ -91,7 +91,7 @@
 &trans  &trans     &trans  &trans  &trans  &trans  &trans                                      &kp AT_SIGN   &kp AMPERSAND  &kp CARET   &kp RPAR          &trans            &trans  &trans
 &trans  &kp RA(Q)  &trans  &trans  &trans  &trans  &trans                                      &kp RA(RBKT)  &kp RA(N8)     &kp RA(N9)  &kp RA(GRAVE)     &kp RA(N1)        &trans  &trans
 &trans  &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &kp PERCENT   &kp STAR       &kp LPAR    &kp LS(NUMBER_6)  &kp RA(NUMBER_3)  &trans  &trans
-&trans  &trans     &trans  &trans  &trans  &trans                  &trans      &trans                        &kp RA(N7)     &kp RA(N0)  &trans            &trans            &trans  &kp RS(QUESTION)
+&trans  &trans     &trans  &trans  &trans  &trans                  &trans      &trans                        &kp RA(N7)     &kp RA(N0)  &kp RA(N4)        &trans            &trans  &kp RS(QUESTION)
 &trans  &trans     &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans                       &trans      &trans            &trans            &trans  &trans
             >;
         };
