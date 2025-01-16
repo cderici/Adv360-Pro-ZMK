@@ -78,11 +78,11 @@
 
         symbols {
             bindings = <
-&trans  &trans     &trans  &trans  &trans  &trans  &kp RS(N6)                                      &kp AT_SIGN  &kp CARET         &kp PERCENT    &kp RPAR          &kp RA(N3)  &kp RA(EQUAL)  &trans
-&trans  &kp RA(Q)  &trans  &trans  &trans  &trans  &trans                                          &kp RA(N7)   &kp RA(N0)        &kp RA(GRAVE)  &kp RA(N1)        &trans      &kp RA(RBKT)   &trans
-&trans  &trans     &trans  &trans  &trans  &trans  &trans      &trans  &trans      &trans  &trans  &kp STAR     &kp LPAR          &kp AMPERSAND  &kp RA(ASTERISK)  &trans      &kp RS(N3)     &trans
-&trans  &trans     &trans  &trans  &trans  &trans                      &trans      &trans                       &kp RS(QUESTION)  &kp RA(N8)     &kp RA(N9)        &trans      &trans         &kp RS(QUESTION)
-&trans  &trans     &trans  &trans  &trans          &trans      &trans  &trans      &trans  &trans  &trans                         &trans         &trans            &trans      &trans         &trans
+&trans  &trans     &trans  &trans  &trans  &trans  &kp RS(N6)                                      &kp AT_SIGN  &kp CARET         &kp PERCENT    &kp RPAR            &kp RA(N3)  &kp RA(EQUAL)  &trans
+&trans  &kp RA(Q)  &trans  &trans  &trans  &trans  &trans                                          &kp RA(N7)   &kp RA(N0)        &kp RA(GRAVE)  &kp RA(N1)          &trans      &kp RA(RBKT)   &trans
+&trans  &trans     &trans  &trans  &trans  &trans  &trans      &trans  &trans      &trans  &trans  &kp STAR     &kp LPAR          &kp AMPERSAND  &kp RA(UNDERSCORE)  &trans      &kp RS(N3)     &trans
+&trans  &trans     &trans  &trans  &trans  &trans                      &trans      &trans                       &kp RS(QUESTION)  &kp RA(N8)     &kp RA(N9)          &trans      &trans         &kp RS(QUESTION)
+&trans  &trans     &trans  &trans  &trans          &trans      &trans  &trans      &trans  &trans  &trans                         &trans         &trans              &trans      &trans         &trans
             >;
         };
     };
