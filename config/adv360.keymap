@@ -85,11 +85,11 @@
 
         symbols {
             bindings = <
-&trans  &kp EXCL   &trans  &trans  &trans           &trans  &kp RS(N6)                                      &kp AT_SIGN  &kp STAR          &kp LPAR       &kp RPAR       &kp RA(N3)  &kp RA(EQUAL)  &trans
-&trans  &kp RA(Q)  &trans  &trans  &trans           &trans  &trans                                          &kp RA(N7)   &kp RA(N0)        &kp RA(GRAVE)  &kp RA(N1)     &trans      &kp RA(RBKT)   &kp RA(BSLH)
-&trans  &trans     &trans  &trans  &kp PRINTSCREEN  &trans  &trans      &trans  &trans      &trans  &trans  &kp PERCENT  &kp CARET         &kp AMPERSAND  &kp RA(MINUS)  &trans      &kp RS(N3)     &trans
-&trans  &trans     &trans  &trans  &trans           &trans                      &trans      &trans                       &kp RS(QUESTION)  &kp RA(N8)     &kp RA(N9)     &trans      &trans         &kp RS(QUESTION)
-&trans  &trans     &trans  &trans  &trans                   &trans      &trans  &trans      &trans  &trans  &trans                         &trans         &trans         &trans      &trans         &trans
+&trans  &kp EXCL   &trans  &trans  &trans           &trans  &kp RS(N6)                                      &kp AT_SIGN  &kp STAR          &kp LPAR       &kp RPAR       &kp LS(MINUS)  &kp RA(EQUAL)  &trans
+&trans  &kp RA(Q)  &trans  &trans  &trans           &trans  &trans                                          &kp RA(N7)   &kp RA(N0)        &kp RA(GRAVE)  &kp RA(N1)     &trans         &kp RA(RBKT)   &kp RA(BSLH)
+&trans  &trans     &trans  &trans  &kp PRINTSCREEN  &trans  &trans      &trans  &trans      &trans  &trans  &kp PERCENT  &kp CARET         &kp AMPERSAND  &kp RA(MINUS)  &kp RA(N3)     &kp RS(N3)     &trans
+&trans  &trans     &trans  &trans  &trans           &trans                      &trans      &trans                       &kp RS(QUESTION)  &kp RA(N8)     &kp RA(N9)     &trans         &trans         &kp RS(QUESTION)
+&trans  &trans     &trans  &trans  &trans                   &trans      &trans  &trans      &trans  &trans  &trans                         &trans         &trans         &trans         &trans         &trans
             >;
         };
     };
